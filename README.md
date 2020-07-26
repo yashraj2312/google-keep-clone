@@ -1,4 +1,4 @@
-# google-keep-clone
+# AngularKeep
 
 ## About
 A Google Keep clone built using Angular where user can create or delete the notes and search and move it to archive
