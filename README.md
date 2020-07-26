@@ -1,7 +1,7 @@
 # google-keep-clone
 
 ## About
-A Google Keep clone built using Angular 9 where user can create or delete the notes.
+A Google Keep clone built using Angular where user can create or delete the notes and search and move it to archive
 
 ## Technologies Used
 `HTML` `Sass` `Angular` `Typescript` `Firebase`
@@ -21,6 +21,6 @@ A Google Keep clone built using Angular 9 where user can create or delete the no
 
 ## Important
 
-Github link of this project- https://github.com/yashraj2312/gk1
+Github link of this project- https://github.com/yashraj2312/google-keep-clone
 
 ### Check out my personal website https://bit.ly/yashrajweb to know more about my skills and projects done.
