@@ -3,10 +3,13 @@
 }
 
 .done {
-    background-color: #ccff90;
+    background-color: 
+    #f5b932;
 }
 
 .icon {
+    color: 
+    #f5b932;
     cursor: pointer;
 }
 
@@ -22,10 +25,11 @@
 
 .note-content {
     text-align: left;
+    cursor: pointer;
 }
 
 .delete-button {
     position: absolute;
-    right: -20px;
-    top: -20px;
+    right: 1px;
+    top: 1px;
 }
