@@ -11,7 +11,7 @@ export class InMemoryDataService implements InMemoryDbService {
       { 
         id: 11,
         title: 'PayO',
-        description: 'PayO will become Unicorn soon',
+        description: 'PayO will become Unicorn startup soon',
         isDone: false,
         isArchived: false,
       },
