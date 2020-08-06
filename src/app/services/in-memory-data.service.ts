@@ -25,7 +25,7 @@ export class InMemoryDataService implements InMemoryDbService {
       { 
         id: 13,
         title: 'Final Test',
-        description: 'Final Test Note done after compilation',
+        description: 'Final Test Note created after compilation',
         isDone: false,
         isArchived: false,
       },
