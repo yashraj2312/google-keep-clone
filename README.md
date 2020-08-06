@@ -22,3 +22,8 @@ A Google Keep clone built using Angular where user can create or delete the note
 ## Important
 
 ### Check out my personal website https://bit.ly/yashrajweb to know more about my skills and projects done.
+
+### Contact me via-
+Mail- yashrajsrivastava2312@gmail.com
+Linkedin- https://linkedin.com/in/yashraj2312
+Github- https://github.com/yashraj2312
