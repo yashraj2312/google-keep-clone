@@ -13,7 +13,7 @@ export class InMemoryDataService implements InMemoryDbService {
         title: 'PayO',
         description: 'PayO will become Unicorn',
         isDone: false,
-        isArchived: true,
+        isArchived: false,
       },
       { 
         id: 12,
@@ -23,11 +23,18 @@ export class InMemoryDataService implements InMemoryDbService {
         isArchived: false,
       },
       { 
-        id: 20,
-        title: 'FrontEnd',
-        description: 'Yash Raj is good Candidate',
+        id: 13,
+        title: 'Final Test',
+        description: 'Final Test Note done after compilation',
         isDone: false,
         isArchived: false,
+      },
+      { 
+        id: 20,
+        title: 'FrontEnd Dev',
+        description: 'Yash Raj is a good Candidate',
+        isDone: false,
+        isArchived: true,
       }
     ];
     return {notes};
